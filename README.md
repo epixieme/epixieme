@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/39728053/168490799-5d9a768c-aa1e-4cd6-a227-1f6b45c33ffe.mp4
+
 - 👋 Hi, I’m Kirstie
 - 👀 I’m interested in Front-End and Full-Stack development and available for developer positions.
 - 🌱 I’m currently learning Full-Stack development @100Devs
@@ -8,6 +12,9 @@
 epixieme/epixieme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
 
 
 
