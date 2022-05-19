@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently a Full-Stack developer @100Devs
 - 👀 I’m interested in Front-End and Full-Stack development and available for developer positions.
-- 💞️ I’m looking to collaborate on Freelance projects, Open source.
-- 📫 You can Reach me https://twitter.com/epixieme. Lets schedule coffee chat.
+- 💞️ I’m looking to collaborate on freelance projects or open-source.
+- 📫 You can reach me https://twitter.com/epixieme. Lets schedule coffee chat.
+ 
 
 <!---
 epixieme/epixieme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
