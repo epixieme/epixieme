@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
  -->
 
 <br/>
+<h2>My Stats</h2>
 <p align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=epixieme&show_icons=true&theme=radical" />
  
@@ -28,7 +29,7 @@ You can click the Preview link to take a look at your changes.
  
  <br/>
  <br/>
- <p>Tech Skills</p>
+ <h2>Tech Skills</h2>
  <p align=left>
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
