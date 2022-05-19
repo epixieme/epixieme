@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Kirstie's GitHub stats](https://github-readme-stats.vercel.app/api?username=epixieme&show_icons=true&theme=dracula)
+<p align="center">![Kirstie's GitHub stats](https://github-readme-stats.vercel.app/api?username=epixieme&show_icons=true&theme=dracula)</p>
 
 
 
