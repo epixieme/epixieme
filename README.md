@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
  
            
 </p>
-<!--  <p align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epixieme)](https://github.com/epixieme/github-readme-stats" />
+ <p align=center>
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
   </p>         
- -->
-![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+
+
