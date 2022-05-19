@@ -21,7 +21,11 @@ You can click the Preview link to take a look at your changes.
 
  -->
 
-<!-- <a href="https://github.com/epixieme/github-readme-stats"> -->
+
+<p align ='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=epixieme&show_icons=true&theme=dracula" />
-<!-- </a> -->
+           
+  </p>
+
+           
 
