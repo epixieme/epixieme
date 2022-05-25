@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
  
   <h2>My Work</h2>
   <p align="center">
-    <img align="center" src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://user-images.githubusercontent.com/39728053/170242878-8be6f264-ad4b-426f-afff-fefce1995094.gif)" />
+    <img align="center" src="https://user-images.githubusercontent.com/39728053/170242878-8be6f264-ad4b-426f-afff-fefce1995094.gif" />
  
  </p>  
 
