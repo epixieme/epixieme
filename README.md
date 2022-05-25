@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
    <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>  
- 
+  <br>
   <h2>My Work</h2>
- <br>
+
  <h3>Anime Plus</h3>
  <section>
   <video width="320" height="240" align="center" src="https://user-images.githubusercontent.com/39728053/170245755-8bc056c0-cdba-4714-aa81-44db65cae178.mp4" onloadedmetadata="this.muted = true" playsinline autoplay muted loop/>
