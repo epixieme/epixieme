@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
  
   <h2>My Work</h2>
 <!--   <p align="center"> -->
-  <video controls autoplay loop width="320" height="240" align="center" src="https://user-images.githubusercontent.com/39728053/170245755-8bc056c0-cdba-4714-aa81-44db65cae178.mp4" />
+  <video playsinline autoplay muted loop  width="320" height="240" align="center" src="https://user-images.githubusercontent.com/39728053/170245755-8bc056c0-cdba-4714-aa81-44db65cae178.mp4" />
  
 
 
