@@ -38,8 +38,7 @@ You can click the Preview link to take a look at your changes.
 
  <h3>Anime Plus</h3>
  <section>
-  <video controls muted playsinline autoplay muted loop src="https://user-images.githubusercontent.com/39728053/170245755-8bc056c0-cdba-4714-aa81-44db65cae178.mp4" type="video/mp4" />
-
+  <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif" />
 
  </section>
  <section>
@@ -52,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
  </section>
 
-![anime](https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif)
+
 
 
 
