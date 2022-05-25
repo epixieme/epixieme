@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
  </section>
  <section>
  
- <p>This is an anime movie database with the ability to add to favourites utilizing local storage. Built with the following tech stack: </p>  
+ <p>This is an anime movie database with the ability to add to favourites utilizing local storage. Built with: </p>  
   <br>
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
