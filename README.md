@@ -38,8 +38,9 @@ You can click the Preview link to take a look at your changes.
 
  <h3>Anime Plus</h3>
  <section>
-  <video width="320" height="240" align="center"  controls muted playsinline autoplay muted loop/>
+  <video width="320" height="240" align="center"  controls muted playsinline autoplay muted loop>
    <source src="https://user-images.githubusercontent.com/39728053/170245755-8bc056c0-cdba-4714-aa81-44db65cae178.mp4" type="video/mp4" />
+  </video>
  </section>
  <section>
  
