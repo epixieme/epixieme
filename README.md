@@ -1,5 +1,5 @@
 
-<h1> Hi 👋, I’m Kirstie</h1
+<h1>Hi 👋, I’m Kirstie</h1
 
 ![githubheader](https://user-images.githubusercontent.com/39728053/168490990-a54b9d26-cdb9-4498-a189-2effb181f181.gif)
 
