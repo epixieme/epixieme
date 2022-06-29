@@ -12,11 +12,13 @@
 
 
 <h2>About Me</h2>
-- 🌱 I’m a Full-Stack developer @100Devs, currently learning Mongoose.
-- 👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.
-- 💞️ I’m looking to collaborate on freelance projects or open-source.
-- 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. 
-- ☕️ Lets schedule coffee chat.
+<ul>
+ <li>🌱 I’m a Full-Stack developer @100Devs, currently learning Mongoose.</li>
+ <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
+ <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
+ <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
+ <li> ☕️ Lets schedule coffee chat.</li>
+</ul>
  
 
 <!---
