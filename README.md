@@ -22,25 +22,27 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <br/>
  <h2>My Skills</h2>
- <h2 align="left">Front-end/Client-side</h2>
+
+ <h3 align="left">Front-end/Client-side</h3>
+   <p align="center">
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
- 
-  <h2 align="left">Back-end</h2>
+   </p>  
+  <h3 align="left">Back-end</h3>
  
   <h2 align="left">Version Control</h2>
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
- <p align="center">
+
 
   <h2 align="left">Prototyping</h2>
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 
   
-  </p>  
+
   <br>
   <h2>My Work</h2>
 
