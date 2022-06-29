@@ -1,7 +1,13 @@
 
 <h1>Hi 👋, I’m Kirstie</h1>
 
-![mylogo](https://user-images.githubusercontent.com/39728053/176492947-ebb56205-15ab-4c26-815b-3b1e0845b7f9.gif)
+
+
+![logo](https://user-images.githubusercontent.com/39728053/176494171-cc472e47-14c1-41b2-b13a-bc97bbf05be3.png)
+
+
+
+
 
 
 
