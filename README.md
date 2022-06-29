@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  <h2>My Skills</h2>
 
  <h3 align="left">Front-end/Client-side</h3>
-   <p align="center">
+   <p align="left">
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,18 +32,18 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
    </p>  
   <h3 align="left">Back-end</h3>
-   <p align="center">
+   <p align="left">
   <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img align="center" src=" https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
    </p>  
  
   <h3 align="left">Version Control</h3>
-   <p align="center">
+   <p align="left">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  </p>  
 
   <h3 align="left">Design & Prototyping</h3>
-   <p align="center">
+   <p align="left">
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
  </p>  
