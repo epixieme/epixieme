@@ -3,7 +3,7 @@
 
 <img width="1300" alt="mylogo" src="https://user-images.githubusercontent.com/39728053/176486240-3202cac2-2b5f-431d-9cc2-66e8bd1a6098.png">
 
-![githubheader](https://user-images.githubusercontent.com/39728053/168490990-a54b9d26-cdb9-4498-a189-2effb181f181.gif)
+
 
 - 🌱 I’m a Full-Stack developer @100Devs, currently learning Node.js
 - 👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.
