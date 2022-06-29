@@ -32,17 +32,21 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
    </p>  
   <h3 align="left">Back-end</h3>
+   <p align="center">
   <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+ <img align="center" src=" https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+   </p>  
  
   <h3 align="left">Version Control</h3>
+   <p align="center">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
+ </p>  
 
   <h3 align="left">Design & Prototyping</h3>
+   <p align="center">
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-
+ </p>  
 
 
   
