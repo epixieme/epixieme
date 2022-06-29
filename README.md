@@ -33,11 +33,11 @@ You can click the Preview link to take a look at your changes.
    </p>  
   <h3 align="left">Back-end</h3>
  
-  <h2 align="left">Version Control</h2>
+  <h3 align="left">Version Control</h3>
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 
-  <h2 align="left">Prototyping</h2>
+  <h3 align="left">Prototyping</h3>
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 
