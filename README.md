@@ -1,7 +1,8 @@
 
 <h1>Hi 👋, I’m Kirstie</h1>
 
-<img width="1300" alt="mylogo" src="https://user-images.githubusercontent.com/39728053/176486240-3202cac2-2b5f-431d-9cc2-66e8bd1a6098.png">
+![mylogo](https://user-images.githubusercontent.com/39728053/176492947-ebb56205-15ab-4c26-815b-3b1e0845b7f9.gif)
+
 
 
 
