@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m a Full-Stack developer @100Devs, currently learning Node.js
+- 🌱 I’m a Full-Stack developer @100Devs, currently learning Mongoose.
 - 👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.
 - 💞️ I’m looking to collaborate on freelance projects or open-source.
 - 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. 
