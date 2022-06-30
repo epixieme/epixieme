@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <h2>My Skills</h2>
  
- <section d-flex justify-content-between>
+ <section d-flex flex-row justify-content-between>
 
  <h3 align="left">Front-end/Client-side</h3>
    <p align="left">
@@ -78,6 +78,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif" />
 
  </section>
+  </section>
  <section>
  
  <p>This is an anime movie database, built from the Jikan anime API. 
