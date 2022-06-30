@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ---> 
 <br/>
 <h2>My Stats</h2>
-<p align=center>
+<p d-flex justify-content-between>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=epixieme&show_icons=true&theme=radical" />          
 </p>
  
@@ -95,13 +95,6 @@ You can click the Preview link to take a look at your changes.
  </section>
 
 
-<style>
-.align{
- display:flex;
- 
- 
- }
-</style>
 
 
 
