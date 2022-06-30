@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <br/>
  <h2>My Skills</h2>
+ 
+ <section class ='align'>
 
  <h3 align="left">Front-end/Client-side</h3>
    <p align="left">
@@ -93,7 +95,13 @@ You can click the Preview link to take a look at your changes.
  </section>
 
 
-
+<style>
+.align{
+ display:flex;
+ 
+ 
+ }
+</style>
 
 
 
