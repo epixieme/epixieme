@@ -61,11 +61,7 @@ You can click the Preview link to take a look at your changes.
    <p align="left">
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
- </p>  
-
-
-  
-
+ </p> 
   <br>
   <h2>My Work</h2>
 
