@@ -14,7 +14,6 @@
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
  <li> ☕️ Lets schedule coffee chat.</li>
 </ul>
- 
 
 <!---
 epixieme/epixieme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
