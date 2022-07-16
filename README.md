@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     
    </p>  
- 
   <h3 align="left">Version Control</h3>
    <p align="left">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
