@@ -3,7 +3,7 @@
 
 
 
-![website](https://user-images.githubusercontent.com/39728053/179491125-0f5e2fd6-d7a3-40af-accf-16a5efd4eacb.png)
+![Untitled design](https://user-images.githubusercontent.com/39728053/179492490-29bc2744-40f0-466a-8d03-be0ac6543358.jpg)
 
 
 <h2>About Me</h2>
