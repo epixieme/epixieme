@@ -5,7 +5,6 @@
 
 ![Untitled design](https://user-images.githubusercontent.com/39728053/179492490-29bc2744-40f0-466a-8d03-be0ac6543358.jpg)
 
-
 <h2>About Me</h2>
 <ul>
  <li>🌱 I’m a Full-Stack developer @100Devs, currently learning Mongoose.</li>
