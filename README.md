@@ -66,7 +66,6 @@ You can click the Preview link to take a look at your changes.
  </section>
   </section>
  <section>
- 
  <p>This is an anime movie database, built from the Jikan anime API. 
   <h4>Features</h4>
   <br>
