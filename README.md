@@ -129,7 +129,7 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
    Using Node.js, EJS, Express.js, Mongoose and MVC framework.
   </ul>
 
-/p>  
+</p>  
   <br>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
