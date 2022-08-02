@@ -108,6 +108,34 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
  </section>
+ 
+ 
+ <h3>Tip Calculator</h3>
+ <section>
+
+
+
+ </section>
+  </section>
+ <section>
+ <p>This is a full stack CRUD application. 
+  <h4>Features</h4>
+  <br>
+  <ul>
+   <li>Users create their daily emotions to the app (like a thought diary).</li>
+   <li>Ability to Search the database.</li>
+   <li>Ability to amend or delete the document.</li>
+   <li>Views to see trends from submitted emotions.</li>
+   Using Node.js, EJS, Express.js, Mongoose and MVC framework.
+  </ul>
+   <![calculatetip](https://user-images.githubusercontent.com/39728053/182317872-7fbaa3aa-3259-40fe-8707-8e7c6450c3f0.gif)
+/p>  
+  <br>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ </section>
+
 
 
 
