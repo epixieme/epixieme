@@ -120,8 +120,7 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
  </section>
   </section>
  <section>
- <p> This small app was pick of the week on codepen
-  https://codepen.io/epixieme/pen/zYZeoRj
+ <p> This small app was made with vanilla JS aand CSS and was pick of the week on codepen
   <h4>Features</h4>
   <br>
   <ul>
