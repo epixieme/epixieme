@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
  
  <h3>Tip Calculator</h3>
  <section>
-
+   <![calculatetip](https://user-images.githubusercontent.com/39728053/182317872-7fbaa3aa-3259-40fe-8707-8e7c6450c3f0.gif)
 
 
  </section>
@@ -128,7 +128,7 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
    <li>Views to see trends from submitted emotions.</li>
    Using Node.js, EJS, Express.js, Mongoose and MVC framework.
   </ul>
-   <![calculatetip](https://user-images.githubusercontent.com/39728053/182317872-7fbaa3aa-3259-40fe-8707-8e7c6450c3f0.gif)
+
 /p>  
   <br>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
