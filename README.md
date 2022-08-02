@@ -113,18 +113,19 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
  <h3>Tip Calculator</h3>
  <section>
 
-![calculatetip](https://user-images.githubusercontent.com/39728053/182320175-1a6b4e1e-c903-4944-aa56-3707df566599.gif)
+<a href="https://codepen.io/epixieme/pen/zYZeoRj"><img src="https://user-images.githubusercontent.com/39728053/182320175-1a6b4e1e-c903-4944-aa56-3707df566599.gif"/></a>
 
 
 
  </section>
   </section>
  <section>
- <p> 
+ <p> This small app was pick of the week on codepen
+  https://codepen.io/epixieme/pen/zYZeoRj
   <h4>Features</h4>
   <br>
   <ul>
-
+<li>Users can choose options to calculate their tip.</li>
   </ul>
 
 </p>  
