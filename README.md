@@ -112,7 +112,8 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
  
  <h3>Tip Calculator</h3>
  <section>
-   <![calculatetip](https://user-images.githubusercontent.com/39728053/182317872-7fbaa3aa-3259-40fe-8707-8e7c6450c3f0.gif)
+
+ <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif](https://user-images.githubusercontent.com/39728053/182317872-7fbaa3aa-3259-40fe-8707-8e7c6450c3f0.gif" />
 
 
  </section>
