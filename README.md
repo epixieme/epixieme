@@ -125,7 +125,7 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
   <br>
   <ul>
 <li>Users can choose options to calculate their tip.</li>
-<li>calculates tip on button click.</li>
+<li>calculates tip using input event listener.</li>
   </ul>
 </p>  
   <br>
