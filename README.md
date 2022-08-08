@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <br/>
  <h2>My Skills</h2>
- 
  <section d-flex flex-row justify-content-between>
 
  <h3 align="left">Front-end/Client-side</h3>
