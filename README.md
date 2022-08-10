@@ -102,7 +102,6 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
  </section>
- 
  <h3>Tip Calculator</h3>
  <section>
 <a href="https://codepen.io/epixieme/pen/zYZeoRj"><img src="https://user-images.githubusercontent.com/39728053/182320175-1a6b4e1e-c903-4944-aa56-3707df566599.gif"/></a>
