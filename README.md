@@ -89,9 +89,9 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
   <ul>
    <li>Users create their daily emotions to the app (like a thought diary).</li>
    <li>Ability to Search the database.</li>
-   <li>Ability to amend or delete the document.</li>
-   <li>Views to see trends from submitted emotions.</li>
-   Using Node.js, EJS, Express.js, Mongoose and MVC framework.
+   <li>Ability to submit, edit and update using content editable fields or delete the document.</li>
+   <li>Views to see weekly emotions.</li>
+   Using Node.js, EJS, Express.js, Mongoose and MVC.
   </ul>
    </p>  
   <br>
