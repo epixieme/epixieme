@@ -68,7 +68,6 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  </section>
- 
  <h3>Emotionaliser</h3>
  <section>
 https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-b545-2a398778ffe6.mp4
