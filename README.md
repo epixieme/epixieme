@@ -1,6 +1,5 @@
 
 <h1>Hi 👋, I’m Kirstie</h1>
-
 ![Untitled design](https://user-images.githubusercontent.com/39728053/179492490-29bc2744-40f0-466a-8d03-be0ac6543358.jpg)
 <h2>About Me</h2>
 <ul>
