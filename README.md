@@ -80,7 +80,6 @@ https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-
  <p>This is a full stack CRUD application. 
   <h4>Features</h4>
   <br>
-  
   <ul>
    <li>Users create their daily emotions to the app (like a thought diary).</li>
    <li>Ability to Search the database.</li>
