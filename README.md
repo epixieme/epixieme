@@ -71,7 +71,8 @@ You can click the Preview link to take a look at your changes.
  </section>
  <h3>Emotionaliser</h3>
  <section>
-[![emotionaliser] (https://user-images.githubusercontent.com/39728053/180803418-81498b29-fee6-405a-b545-2a398778ffe6.mp4)
+<img width="1440" alt="emotdash" src="https://user-images.githubusercontent.com/39728053/210402262-1e141d38-8251-4828-b0af-dda6b2085267.png">
+
  </section>
   </section>
  <section>
