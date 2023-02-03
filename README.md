@@ -71,22 +71,15 @@ You can click the Preview link to take a look at your changes.
  </section>
  <h3>Emotionaliser</h3>
  <section>
-<img width="1440" alt="emotdash" src="https://user-images.githubusercontent.com/39728053/210402262-1e141d38-8251-4828-b0af-dda6b2085267.png">
-
- </section>
-  </section>
- <section>
- <p>This is a full stack CRUD application. 
-  <h4>Features</h4>
-  <br>
-  <ul>
-   <li>Users create their daily emotions to the app (like a thought diary).</li>
-   <li>Ability to Search the database.</li>
-   <li>Ability to submit, edit and update using content editable fields or delete the document.</li>
-   <li>Views to see weekly emotions.</li>
-   Using Node.js, EJS, Express.js, Mongoose and MVC.
-  </ul>
-   </p>  
+<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. https://ill-pear-walrus-tutu.cyclic.app/</p>
+   <h4>Features</h4>
+ <ul>
+ <li>Dashboard showing weekly mood stats.</li>
+<li>Wellbeing tools - Thought Diary and Motivational Quotes CRUD feature.</li>
+<li>Positivity Hub allowing users to view bookmarks that help with instilling postive emotions.</li>
+<li>Community pages for posting thoughts and quotes to share and discuss.</li>
+<li>Profile settings editor - upload a profile picture and edit personal details. </li>
+ </ul>
   <br>
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
