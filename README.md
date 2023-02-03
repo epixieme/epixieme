@@ -50,6 +50,30 @@ You can click the Preview link to take a look at your changes.
  </p> 
   <br>
   <h2>My Work</h2>
+ <h3>Emotionaliser</h3>
+ <section>
+  
+
+https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-8f49-3b3eb46e5584.mp4
+
+
+<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. https://ill-pear-walrus-tutu.cyclic.app/</p>
+   <h4>Features</h4>
+ <ul>
+ <li>Dashboard showing weekly mood stats.</li>
+<li>Wellbeing tools - Thought Diary and Motivational Quotes CRUD feature.</li>
+<li>Positivity Hub allowing users to view bookmarks that help with instilling postive emotions.</li>
+<li>Community pages for posting thoughts and quotes to share and discuss.</li>
+<li>Profile settings editor - upload a profile picture and edit personal details. </li>
+ </ul>
+  <br>
+ <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+     <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+ </section>
  <h3>Anime Plus</h3>
  <section>
   <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif" />
@@ -69,25 +93,7 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  </section>
- <h3>Emotionaliser</h3>
- <section>
-<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. https://ill-pear-walrus-tutu.cyclic.app/</p>
-   <h4>Features</h4>
- <ul>
- <li>Dashboard showing weekly mood stats.</li>
-<li>Wellbeing tools - Thought Diary and Motivational Quotes CRUD feature.</li>
-<li>Positivity Hub allowing users to view bookmarks that help with instilling postive emotions.</li>
-<li>Community pages for posting thoughts and quotes to share and discuss.</li>
-<li>Profile settings editor - upload a profile picture and edit personal details. </li>
- </ul>
-  <br>
- <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-     <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
- </section>
+ 
  <h3>Tip Calculator</h3>
  <section>
 <a href="https://codepen.io/epixieme/pen/zYZeoRj"><img src="https://user-images.githubusercontent.com/39728053/182320175-1a6b4e1e-c903-4944-aa56-3707df566599.gif"/></a>
