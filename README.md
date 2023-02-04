@@ -57,7 +57,9 @@ You can click the Preview link to take a look at your changes.
 https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-8f49-3b3eb46e5584.mp4
 
 
-<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. https://ill-pear-walrus-tutu.cyclic.app/</p>
+<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. </p>
+  <p>Live App: https://ill-pear-walrus-tutu.cyclic.app/</p>
+  <p>Repo:https://github.com/epixieme/emotionaliser</p>
    <h4>Features</h4>
  <ul>
  <li>Dashboard showing weekly mood stats.</li>
