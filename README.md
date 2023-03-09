@@ -1,6 +1,6 @@
 <h1>Hi 👋, I’m Kirstie</h1>
 
-![Untitled design](https://user-images.githubusercontent.com/39728053/179492490-29bc2744-40f0-466a-8d03-be0ac6543358.jpg)
+<img width="600" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 
 <h2>About Me</h2>
 
