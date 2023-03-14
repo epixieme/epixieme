@@ -50,6 +50,11 @@ You can click the Preview link to take a look at your changes.
  </p> 
   <br>
   <h2>My Work</h2>
+ 
+  <h3>Dog Meet Dog</h3>
+  <section>
+   
+ </section>
  <h3>Emotionalize</h3>
  <section>
   
