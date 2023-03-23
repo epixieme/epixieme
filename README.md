@@ -5,7 +5,10 @@
 <h2>About Me</h2>
 
 <ul>
- <li>🌱 I’m a Full-Stack developer @100Devs currently working with EJS, Mongoose and MongoDB, express.js.</li>
+
+ <li>🌱 I’m a Full-Stack developer @100Devs skilled in EJS, Mongoose and MongoDB, express.js.</li>
+ 
+ <li>🧑‍🎓 Currently learning React.</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
