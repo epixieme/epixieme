@@ -5,7 +5,6 @@
 <h2>About Me</h2>
 
 <ul>
-
  <li>🌱 I’m a Full-Stack developer @100Devs skilled in EJS, Mongoose and MongoDB, express.js.</li>
  
  <li>🧑‍🎓 Currently learning React.</li>
