@@ -65,7 +65,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github.com/epixieme/Quizzical/assets/39728053/56db14dd-7cd6-4793-9c0e-90bd8975274c" height="450"/>
  
  
-Live quiz - https://leafy-blini-c30780.netlify.app/](https://endearing-kleicha-03bfbe.netlify.app
+Live quiz - https://leafy-blini-c30780.netlify.app/]
+ 
+ (https://endearing-kleicha-03bfbe.netlify.app
  
 Figma Designs
 (https://www.google.com](https://www.figma.com/file/Vzf9swvWBXqygg77au5Rkm/Quizzical-App-(Copy)?type=design&node-id=0-1&t=GjNAT4BCnIu7Z0Fj-0) )
