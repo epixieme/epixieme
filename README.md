@@ -84,8 +84,11 @@ Designed to match as closely as possible to existing Figma prototypes with addit
 <li>Learned about the use of loaders and added a spinner to enhance the user experience</li>
 
 </ul>
-
- 
+<br>
+ <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <br>
  <h3>Emotionalize</h3>
  <section>
   
