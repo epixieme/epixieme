@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
  
  <h3>Quizzical</h3>
  <img src="https://github.com/epixieme/Quizzical/assets/39728053/56db14dd-7cd6-4793-9c0e-90bd8975274c" height="450"/>
-Live quiz - https://leafy-blini-c30780.netlify.app/
+Live quiz - https://leafy-blini-c30780.netlify.app/](https://endearing-kleicha-03bfbe.netlify.app
 
 Fully responsive React Trivia Quiz app using the Opendb API and created with Hooks UseState and UseEffect.
 
