@@ -3,7 +3,7 @@
 <img width="100%" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 <h2>About Me</h2>
 <ul>
- <li>🌱 I’m a Full-Stack developer @100Devs skilled in EJS, Mongoose and MongoDB, express.js.</li>
+ <li>🌱 I’m a Full-Stack developer @100Devs skilled in React, React-Native EJS, Mongoose and MongoDB, express.js.</li>
  
  <li>🧑‍🎓 Currently learning React.</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
