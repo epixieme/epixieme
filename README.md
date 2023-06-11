@@ -56,7 +56,11 @@ You can click the Preview link to take a look at your changes.
  <h3>Climate Mind</h3>
  <img width="1435" alt="ClimateMind" src="https://github.com/epixieme/epixieme/assets/39728053/9ea180ec-028f-43ca-ab72-73f31d763823">
 
- <p>Currently working on the React-Native side of the project</p>
+ <p>Currently working as part of a collaborative international team on the React-Native side of the project</p>
+ <p>Collaborating regulary with other developers and meeting weekly as a group of specialists. </p>
+ <p>Utilising remote agile working i.e. standups through Slack & Zoom</p> 
+ <p>Resolving issues and backlog features through GitHub projects and workflow</p>
+ 
  Live Web App: https://climatemind.org/ 
  
  repo:https://github.com/ClimateMind
