@@ -9,7 +9,7 @@
  <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
- <li> ☕️ Lets schedule coffee chat.</li>
+ <li> ☕️ Open to coffee chats.</li>
 </ul>
 <!---
 epixieme/epixieme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
