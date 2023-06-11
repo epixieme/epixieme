@@ -55,12 +55,12 @@ You can click the Preview link to take a look at your changes.
  <h2>Voluntary Work and Open Source</h2>
  <h3>Climate Mind</h3>
  <img width="1435" alt="ClimateMind" src="https://github.com/epixieme/epixieme/assets/39728053/9ea180ec-028f-43ca-ab72-73f31d763823">
-<ol>
+<ul>
  <li>Currently working as part of a collaborative international team on the React-Native side of the project</li>
  <li>Collaborating regulary with other developers and meeting weekly as a group of specialists. </li>
  <li>Utilising remote agile working i.e. standups through Slack & Zoom</li> 
  <li>Resolving issues and backlog features through GitHub projects and workflow</li>
- </ol>
+ </ul>
  
  Live Web App: https://climatemind.org/ 
  
