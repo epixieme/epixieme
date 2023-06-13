@@ -3,7 +3,7 @@
 <img width="100%" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 <h2>About Me</h2>
 <ul>
- <li>🌱 I’m a Full-Stack developer @100Devs skilled in Python, Javascript,React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
+ <li>🌱 I’m a Full-Stack developer skilled in Python, Javascript,React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
  
  <li>🧑‍🎓 Currently studying Typescript and volunteering on a React-Native project for Climate Mind https://climatemind.org/  https://github.com/ClimateMind.</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
