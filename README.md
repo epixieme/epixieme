@@ -5,7 +5,7 @@
 <ul>
  <li>🌱 I’m a Full-Stack developer @100Devs skilled in Python, Javascript,React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
  
- <li>🧑‍🎓 Currently studying typescript and volunteering on a React-Native project for Climate Mind https://climatemind.org/  https://github.com/ClimateMind.</li>
+ <li>🧑‍🎓 Currently studying Typescript and volunteering on a React-Native project for Climate Mind https://climatemind.org/  https://github.com/ClimateMind.</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
