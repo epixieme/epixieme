@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
  
 <ul>
  <li>Currently working as part of a collaborative international team on the React-Native side of the project</li>
- <li>Collaborating regulary with other developers and meeting weekly as a group of specialists. </li>
+ <li>Collaborating regularly with other developers and meeting weekly as a group of specialists. </li>
  <li>Utilising remote agile working i.e. standups through Slack & Zoom</li> 
  <li>Resolving issues and backlog features through GitHub projects and workflow</li>
  </ul>
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
   <h3>Dog Meet Dog</h3>
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
  <h4>About</h4>
- <p>This application is currently is prototype, the Figma files can be found here: </p>
+ <p>This application is currently in prototype, the Figma files can be found here: </p>
  https://www.figma.com/file/pYXdTp9SYz2y0spCLOWRm6/dogmeetsdog?node-id=0%3A1&t=N0UoRX0n5TdpJ30n-0
   <section>
    
@@ -89,12 +89,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github.com/epixieme/Quizzical/assets/39728053/56db14dd-7cd6-4793-9c0e-90bd8975274c" height="450"/>
  
  
-Live quiz -[https://boisterous-blancmange-5aeb79.netlify.app/]
+Live quiz - https://boisterous-blancmange-5aeb79.netlify.app/
  
 
- 
-Figma Designs
-(https://www.google.com](https://www.figma.com/file/Vzf9swvWBXqygg77au5Rkm/Quizzical-App-(Copy)?type=design&node-id=0-1&t=GjNAT4BCnIu7Z0Fj-0) )
+Figma Design - https://www.figma.com/file/Vzf9swvWBXqygg77au5Rkm/Quizzical-App-(Copy)?type=design&node-id=0-1&t=nn9mg30D5ZsYLmlP-0
  
 Fully responsive React Trivia Quiz app using the Opendb API and created with Hooks UseState and UseEffect.
 Designed to match as closely as possible to existing Figma prototypes with additional features eg 
