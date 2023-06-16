@@ -3,10 +3,10 @@
 <img width="100%" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 <h2>About Me</h2>
 <ul>
- <li>🌱 I’m a Full-Stack developer skilled in Python, Javascript,React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
+ <li>🌱 I’m a Full-Stack developer skilled in Python, Javascript, React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
  
  <li>🧑‍🎓 Currently studying Typescript and volunteering on a React-Native project for Climate Mind https://climatemind.org/  https://github.com/ClimateMind.</li>
- <li>👀 I’m interested in Front-End and Full-Stack development and available for open developer positions.</li>
+ <li>👀 I’m interested in Front-End and Full-Stack development and am available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
  <li> ☕️ Open to coffee chats.</li>
@@ -86,7 +86,8 @@ You can click the Preview link to take a look at your changes.
  </section>
  
  <h3>Quizzical</h3>
- <img src="https://github.com/epixieme/Quizzical/assets/39728053/56db14dd-7cd6-4793-9c0e-90bd8975274c" height="450"/>
+<img width="1439" alt="quizzical" src="https://github.com/epixieme/epixieme/assets/39728053/65109e72-d98c-4300-bdac-12f0ac319d7b">
+
  
  
 Live quiz - https://boisterous-blancmange-5aeb79.netlify.app/
@@ -164,12 +165,12 @@ https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-
  </section>
   </section>
  <section>
- <p> This small app was made with vanilla JS aand CSS and was pick of the week on codepen
+ <p> This small app was made with vanilla JS and CSS and was the pick of the week on Codepen
   <h4>Features</h4>
   <br>
   <ul>
 <li>Users can choose options to calculate their tip.</li>
-<li>Calculates tip using input event listener.</li>
+<li>Calculates tip using an input event listener.</li>
   </ul>
 </p>  
   <br>
