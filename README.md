@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
  
  Live Web App: https://climatemind.org/ 
  
- repo:https://github.com/ClimateMind
+ Repo:https://github.com/ClimateMind
  
   <h2>Personal Projects</h2>
  
