@@ -79,7 +79,13 @@ You can click the Preview link to take a look at your changes.
   <h3>Dog Meet Dog</h3>
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
  <h4>About</h4>
- <p>This application is currently in prototype, the Figma files can be found here: </p>
+
+ <p>This application is currently in development</p>
+  <p>The Live repo can be found here: </p>
+ 
+ live repo: https://github.com/epixieme/dogmeetdog
+ 
+<p>The Figma files can be found here: </p>
  https://www.figma.com/file/pYXdTp9SYz2y0spCLOWRm6/dogmeetsdog?node-id=0%3A1&t=N0UoRX0n5TdpJ30n-0
   <section>
    
