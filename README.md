@@ -1,5 +1,4 @@
 <h1>Hi 👋, I’m Kirstie</h1>
-
 <img width="100%" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 <h2>About Me</h2>
 <ul>
