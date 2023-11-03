@@ -79,8 +79,8 @@ You can click the Preview link to take a look at your changes.
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
  <h4>About</h4>
 
- <p>This application is currently in development</p>
-  <p>The Live front-end repo can be found here: </p>
+ <p>This application is unfinished and currently in development</p>
+ <p>The Live front-end repo can be found here: </p>
  
  live repo: https://github.com/epixieme/dogmeetdog
 
