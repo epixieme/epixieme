@@ -94,7 +94,8 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   ![Apollo GraphQL Badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge)
+    <img align="center" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge" />
+
  <br>
  </section>
  
