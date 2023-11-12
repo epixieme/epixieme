@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <ul>
  <li>🌱 I’m a Full-Stack developer skilled in Python, Javascript, Typescript, React, React-Native EJS, Mongoose and MongoDB, Express.js.</li>
- <li>🧑‍🎓 Currently studying Typescript and volunteering on a React-Native project for Climate Mind. Repo: https://climatemind.org/ Repo: https://github.com/ClimateMind https://github.com/ClimateMind/frontend-native-app</li>
+ <li>🧑‍🎓 Currently volunteering on an IOS/Android React-Native project for Climate Mind. Repo: https://climatemind.org/ Repo: https://github.com/ClimateMind https://github.com/ClimateMind/frontend-native-app</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and am available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects or open-source.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
