@@ -55,7 +55,6 @@ You can click the Preview link to take a look at your changes.
  
  <img width="1435" alt="ClimateMind" src="https://github.com/epixieme/epixieme/assets/39728053/9ea180ec-028f-43ca-ab72-73f31d763823">
  
- 
  <h4>About</h4>
  
  <p>A tool to relate everyone and their lives to the effects of climate change.</p> 
