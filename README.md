@@ -44,6 +44,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  </p>  
  <h3 align="left">Hosting</h3>
+
+  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <h3 align="left">Design & Prototyping</h3>
    <p align="left">
