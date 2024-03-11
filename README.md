@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <h2>My Skills</h2>
  <section d-flex flex-row justify-content-between>
+   <h3 align="left">Languages</h3>
+   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  <h3 align="left">Front-end/Client-side</h3>
    <p align="left">
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
