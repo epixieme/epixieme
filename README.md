@@ -87,12 +87,9 @@ You can click the Preview link to take a look at your changes.
  <h4>About</h4>
 
  <p>This application is unfinished and currently in development. Being developed with with Node, express, Vite, React, React Router 6.18, React Query, GraphQL, MongoDB and Socket.io. I will also be leveraging the use of A.I. using ChatGPT to optimise testing and CI/CD.</p>
- <p>The Live front-end repo can be found here: </p>
+ <p>The live repo can be found here: </p>
  
  live repo: https://github.com/epixieme/dogmeetdog
-
- <p>The Live back-end repo can be found here: </p>
- live repo: https://github.com/epixieme/dgd-backend
  
 <p>The Figma files can be found here: </p>
  https://www.figma.com/file/pYXdTp9SYz2y0spCLOWRm6/dogmeetsdog?node-id=0%3A1&t=N0UoRX0n5TdpJ30n-0
