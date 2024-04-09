@@ -106,8 +106,7 @@ You can click the Preview link to take a look at your changes.
  <h3>Quizzical</h3>
 <img width="1439" alt="quizzical" src="https://github.com/epixieme/epixieme/assets/39728053/65109e72-d98c-4300-bdac-12f0ac319d7b">
 
- 
- 
+  
 Live quiz: https://boisterous-blancmange-5aeb79.netlify.app/
  
 
