@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
  <p>A tool to relate everyone and their lives to the effects of climate change.</p> 
  
 <ul>
- <li>Currently working as part of a collaborative international team on the React-Native side of the project</li>
+ <li>Currently working as part of a collaborative international team on both the React and React-Native side of the project</li>
  <li>Collaborating regularly with other developers and meeting weekly as a group of specialists. </li>
  <li>Utilising remote agile working i.e. standups through Slack & Zoom</li> 
  <li>Resolving issues and backlog features through GitHub projects and workflow</li>
