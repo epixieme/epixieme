@@ -129,26 +129,6 @@ https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-
   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
  </section>
- <h3>Anime Plus</h3>
- <section>
-  <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif" />
- </section>
-  </section>
- <section>
- <p>This is an anime movie database, built from the Jikan anime API. 
-  <h4>Features</h4>
-  <br>
-  <ul>
-   <li>Ability to Search the filtered movie database and bring back cards appropriate to the search input.</li>
-   <li>Feature to add to favourites through local storage.</li>
-  </ul>
-   </p>  
-  <br>
- <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- </section>
-
 
  <h3>Quizzical</h3>
 <img width="1439" alt="quizzical" src="https://github.com/epixieme/epixieme/assets/39728053/65109e72-d98c-4300-bdac-12f0ac319d7b">
@@ -178,6 +158,26 @@ Designed to match as closely as possible to existing Figma prototypes with addit
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <br>
+
+  <h3>Anime Plus</h3>
+ <section>
+  <img align="center" src="https://user-images.githubusercontent.com/39728053/170262866-f93d2312-f3ab-422f-a83c-9300b4814a48.gif" />
+ </section>
+  </section>
+ <section>
+ <p>This is an anime movie database, built from the Jikan anime API. 
+  <h4>Features</h4>
+  <br>
+  <ul>
+   <li>Ability to Search the filtered movie database and bring back cards appropriate to the search input.</li>
+   <li>Feature to add to favourites through local storage.</li>
+  </ul>
+   </p>  
+  <br>
+ <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ </section>
  
  <h3>Tip Calculator</h3>
  <section>
