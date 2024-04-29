@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
  <h4>About</h4>
 
- <p>This application is unfinished and currently in development. Being developed with with Node, express, Vite, React, React Router 6.18, GraphQL mutations and queries, GraphQL subscriptions and Mongodb. I will also be leveraging the use of A.I. using ChatGPT to optimise testing and CI/CD.</p>
+ <p>This application is unfinished and currently in development. Being developed with with Node, Express, Vite, React, React Router 6.18, GraphQL mutations and queries, GraphQL subscriptions and Mongodb. I will also be leveraging the use of A.I. using ChatGPT to optimise testing and CI/CD.</p>
  <p>The live repo can be found here: </p>
  
  live repo: https://github.com/epixieme/dogmeetdog
@@ -104,34 +104,7 @@ You can click the Preview link to take a look at your changes.
  <br>
  </section>
  
- <h3>Quizzical</h3>
-<img width="1439" alt="quizzical" src="https://github.com/epixieme/epixieme/assets/39728053/65109e72-d98c-4300-bdac-12f0ac319d7b">
-
-  
-Live quiz: https://boisterous-blancmange-5aeb79.netlify.app/
  
-
-Figma Design: https://www.figma.com/file/Vzf9swvWBXqygg77au5Rkm/Quizzical-App-(Copy)?type=design&node-id=0-1&t=nn9mg30D5ZsYLmlP-0
- 
-Fully responsive React Trivia Quiz app using the Opendb API and created with Hooks UseState and UseEffect.
-Designed to match as closely as possible to existing Figma prototypes with additional features eg 
-<ol>
-  <li>Choose Difficulty</li>
-  <li>Choose Category</li>
-</ol>
-  <h4>Takeaways</h4>
-  <ul>
-  <li>Learned how to code to specification and also added some extra features.</li>
-<li>Used Prep to prepare logic for each React component.</li>
-<li>Designed Tests to practice React testing. </li>
-<li>Learned about the use of loaders and added a spinner to enhance the user experience</li>
-
-</ul>
-<br>
- <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <br>
  <h3>Emotionalize</h3>
  <section>
   
@@ -175,6 +148,36 @@ https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  </section>
+
+
+ <h3>Quizzical</h3>
+<img width="1439" alt="quizzical" src="https://github.com/epixieme/epixieme/assets/39728053/65109e72-d98c-4300-bdac-12f0ac319d7b">
+
+  
+Live quiz: https://boisterous-blancmange-5aeb79.netlify.app/
+ 
+
+Figma Design: https://www.figma.com/file/Vzf9swvWBXqygg77au5Rkm/Quizzical-App-(Copy)?type=design&node-id=0-1&t=nn9mg30D5ZsYLmlP-0
+ 
+Challenge set by Scrimba.com. Fully responsive React Trivia Quiz app using the Opendb API and created with Hooks UseState and UseEffect.
+Designed to match as closely as possible to existing Figma prototypes with additional features eg 
+<ol>
+  <li>Choose Difficulty</li>
+  <li>Choose Category</li>
+</ol>
+  <h4>Takeaways</h4>
+  <ul>
+  <li>Learned how to code to specification and also added some extra features.</li>
+<li>Used Prep to prepare logic for each React component.</li>
+<li>Designed Tests to practice React testing. </li>
+<li>Learned about the use of loaders and added a spinner to enhance the user experience</li>
+
+</ul>
+<br>
+ <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <br>
  
  <h3>Tip Calculator</h3>
  <section>
