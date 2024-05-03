@@ -72,7 +72,10 @@ You can click the Preview link to take a look at your changes.
  <li>Currently working as part of a collaborative international team on both the React and React-Native side of the project</li>
  <li>Collaborating regularly with other developers and meeting weekly as a group of specialists. </li>
  <li>Utilising remote agile working i.e. standups through Slack & Zoom</li> 
- <li>Resolving issues and backlog features through GitHub projects and workflow</li>
+ <li>Resolving issues and building backlog features through GitHub projects and workflow</li>
+ <li>Contributing to the design process of new features for the applications</li>
+ <li>Conducting feature demos to the wider team</li>
+ 
  </ul>
  
  Live Web App: https://climatemind.org/ 
