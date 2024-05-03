@@ -78,6 +78,7 @@ You can click the Preview link to take a look at your changes.
  
  </ul>
  
+ 
  Live Web App: https://climatemind.org/ 
  
  Repo: https://github.com/ClimateMind/frontend-native-app
@@ -90,7 +91,10 @@ You can click the Preview link to take a look at your changes.
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
  <h4>About</h4>
 
- <p>This application is unfinished and currently in development. Being developed with Node, Express, Vite, React, React Router 6.18, GraphQL mutations and queries, GraphQL subscriptions and Mongodb. 
+ <p>This application is a work in progress and is currently in development. 
+  
+  <p>Node, Express, Vite, React, React Router 6.18, GraphQL mutations and queries, GraphQL subscriptions and Mongodb.</p>
+  
    <li>Designed some features for the app through Figma.</li>
   <li>Created components for the landing page, about etc part of the application.</li>
   <li>I have begun leveraging the use of A.I. using ChatGPT to optimise testing and CI/CD.</li>
@@ -99,6 +103,7 @@ You can click the Preview link to take a look at your changes.
   <li>Connected to MongoDB and set up Authentication using JWT and have successfully enabled login to the application</li>
    <li>Set up a basic header and dashboard when logged into the application</li>
   
+
   
  <p>The live repo can be found here: </p>
  
