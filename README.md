@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
  <p>This application is a work in progress and is currently in development. 
   
-  <p>Node, Express, Vite, React, React Router 6.18, GraphQL mutations and queries, GraphQL subscriptions and Mongodb.</p>
+  <p>Node, Express, Vite, React, React Router 6.18, Redux Toolkit, GraphQL mutations and queries, GraphQL subscriptions and Mongodb.</p>
   
    <li>Designed some features for the app through Figma.</li>
   <li>Created components for the landing page, about etc part of the application.</li>
