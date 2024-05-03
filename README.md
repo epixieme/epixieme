@@ -77,8 +77,12 @@ You can click the Preview link to take a look at your changes.
  <li>Conducting feature demos to the wider team</li>
  
  </ul>
- 
- 
+  <section d-flex flex-row justify-content-between>
+    <img align = "center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </section>
  Live Web App: https://climatemind.org/ 
  
  Repo: https://github.com/ClimateMind/frontend-native-app
