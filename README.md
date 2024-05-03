@@ -108,6 +108,7 @@ You can click the Preview link to take a look at your changes.
    <li>Set up a basic header and dashboard when logged into the application</li>
   
 
+
   
  <p>The live repo can be found here: </p>
  
@@ -115,6 +116,7 @@ You can click the Preview link to take a look at your changes.
  
 <p>The Figma files can be found here: </p>
  https://www.figma.com/file/pYXdTp9SYz2y0spCLOWRm6/dogmeetsdog?node-id=0%3A1&t=N0UoRX0n5TdpJ30n-0
+ 
   <section>
    <br>
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
