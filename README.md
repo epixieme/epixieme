@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 
 
   
- Live Web App: https://climatemind.org/ 
+ <p>Live Web App:</p> https://climatemind.org/ 
  
  Repo: https://github.com/ClimateMind/frontend-native-app
  Repo: https://github.com/ClimateMind
