@@ -6,7 +6,7 @@
  <li>🌱 I’m a Full-Stack developer skilled in Python, Javascript, Typescript, React, React-Native, GraphQL, Mongoose and MongoDB, Node and Express.js.</li>
  <li>🧑‍🎓 Currently volunteering on an IOS/Android React-Native and React.js project for Climate Mind. Repo: https://climatemind.org/ Repo: https://github.com/ClimateMind https://github.com/ClimateMind/frontend-native-app</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and I am available for open developer positions.</li>
- <li> 💞️ I’m looking to collaborate on freelance projects and open to permanent job opportunities.</li>
+ <li> 💞️ I’m looking to collaborate on freelance projects and am open to permanent job opportunities.</li>
  <li> 📫 You can reach me @ https://twitter.com/epixieme and https://www.linkedin.com/in/kirstiehayes/. </li>
 </ul>
 
@@ -127,14 +127,14 @@ You can click the Preview link to take a look at your changes.
   
 https://user-images.githubusercontent.com/39728053/216655013-01fb31f3-d7dd-45a5-8f49-3b3eb46e5584.mp4
 
-<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Apline, Tailwind, Node.js, MongoDB and Mongoose. </p>
+<p>This is a full-stack Wellbeing CRUD application designed with Vanilla Javascript, EJS, a touch of Alpine.js, Tailwind, Node.js, MongoDB and Mongoose. </p>
   <p>Live App: https://ill-pear-walrus-tutu.cyclic.app/</p>
   <p>Repo: https://github.com/epixieme/emotionaliser</p>
    <h4>Features</h4>
  <ul>
  <li>Dashboard showing weekly mood stats.</li>
 <li>Wellbeing tools - Thought Diary and Motivational Quotes CRUD feature.</li>
-<li>Positivity Hub allowing users to view bookmarks that help with instilling postive emotions.</li>
+<li>Positivity Hub allows users to view bookmarks that help instil positive emotions.</li>
 <li>Community pages for posting thoughts and quotes to share and discuss.</li>
 <li>Profile settings editor - upload a profile picture and edit personal details. </li>
  </ul>
