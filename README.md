@@ -223,7 +223,6 @@ Designed to match as closely as possible to existing Figma prototypes with addit
   <h4>Features</h4>
   <br>
   <ul>
-
 <li>Users can choose options to calculate their tip.</li>
 <li>Calculates tip using an input event listener.</li>
   </ul>
