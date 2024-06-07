@@ -22,11 +22,12 @@ You can click the Preview link to take a look at your changes.
 </p>
  <br/>
  <br/>
- <h2>My Skills</h2>
+ <h1>My Skills</h1>
  <section d-flex flex-row justify-content-between>
    <h3 align="left">Languages</h3>
    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+   <h2 align="left">Dev Skills</h2> 
  <h3 align="left">Front-end/Client-side</h3>
    <p align="left">
  <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -56,6 +57,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
  </p> 
+  <h2 align="left">Testing Skills</h2> 
   <br>
  
  <h2>Voluntary Work and Open Source</h2>
