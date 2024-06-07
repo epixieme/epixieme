@@ -58,6 +58,11 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
  </p> 
   <h2 align="left">Testing Skills</h2> 
+  <ul>
+   <li>Playwright and Page Object Model</li>
+   <li>Cypress</li>
+    <li>Vitest</li>
+  </ul>
   <br>
  
  <h2>Voluntary Work and Open Source</h2>
