@@ -104,6 +104,11 @@ You can click the Preview link to take a look at your changes.
  Repo: https://github.com/ClimateMind
  
   <h2>Personal Projects</h2>
+
+  <h3>My Portfolio Site</h3>
+![Uploading portfolio.png…]()
+
+  Live: https://kirstiehayesdev.netlify.app/
  
   <h3>Dog Meet Dog</h3>
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
