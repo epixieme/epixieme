@@ -72,6 +72,8 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://github.com/epixieme/epixieme/assets/39728053/16b7e79d-100b-4b34-b5c1-d7df525e3562)
 
+live: https://kirstiehayesdev.netlify.app/
+
 
  
  <h3>Climate Mind</h3>
