@@ -66,7 +66,14 @@ You can click the Preview link to take a look at your changes.
   </ul>
   <br>
  
- <h2>Voluntary Work and Open Source</h2>
+ <h2>Open Source and Projects</h2>
+
+ <h3>My Portfolio Site</h3>
+
+![image](https://github.com/epixieme/epixieme/assets/39728053/16b7e79d-100b-4b34-b5c1-d7df525e3562)
+
+
+ 
  <h3>Climate Mind</h3>
  
  
