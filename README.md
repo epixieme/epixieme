@@ -118,6 +118,8 @@ live: https://kirstiehayesdev.netlify.app/
   <h3>My Portfolio Site</h3>
 ![Uploading portfolio.png…]()
 
+<h4>About</h4>
+<p>My portfolio site is built with vanilla JS and pure CSS. Animations built with a combination of Lottie and CSS</p>
   Live: https://kirstiehayesdev.netlify.app/
  
   <h3>Dog Meet Dog</h3>
