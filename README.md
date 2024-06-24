@@ -70,7 +70,8 @@ You can click the Preview link to take a look at your changes.
 
  <h3>My Portfolio Site</h3>
 
-![image](https://github.com/epixieme/epixieme/assets/39728053/16b7e79d-100b-4b34-b5c1-d7df525e3562)
+![screencapture-127-0-0-1-5500-2024-06-24-10_03_49](https://github.com/epixieme/epixieme/assets/39728053/635f0de5-d53c-4a73-ae32-9f81c926d41f)
+
 
 live: https://kirstiehayesdev.netlify.app/
 
