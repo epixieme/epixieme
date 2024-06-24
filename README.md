@@ -73,6 +73,10 @@ You can click the Preview link to take a look at your changes.
 ![screencapture-127-0-0-1-5500-2024-06-24-10_03_49](https://github.com/epixieme/epixieme/assets/39728053/635f0de5-d53c-4a73-ae32-9f81c926d41f)
 
 
+<h4>About</h4>
+<p>My portfolio site is built with vanilla JS and pure CSS. Animations built with a combination of Lottie and CSS</p>
+  Live: https://kirstiehayesdev.netlify.app/
+
 live: https://kirstiehayesdev.netlify.app/
 
 
@@ -114,13 +118,6 @@ live: https://kirstiehayesdev.netlify.app/
  Repo: https://github.com/ClimateMind
  
   <h2>Personal Projects</h2>
-
-  <h3>My Portfolio Site</h3>
-![Uploading portfolio.png…]()
-
-<h4>About</h4>
-<p>My portfolio site is built with vanilla JS and pure CSS. Animations built with a combination of Lottie and CSS</p>
-  Live: https://kirstiehayesdev.netlify.app/
  
   <h3>Dog Meet Dog</h3>
  <img width="757" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225087914-0437ad6e-80ef-4a54-b1a2-27ea45dbf9c9.png">
