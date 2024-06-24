@@ -75,9 +75,10 @@ You can click the Preview link to take a look at your changes.
 
 <h4>About</h4>
 <p>My portfolio site is built with vanilla JS and pure CSS. Animations built with a combination of Lottie and CSS</p>
-  Live: https://kirstiehayesdev.netlify.app/
+ 
+ Live: https://kirstiehayesdev.netlify.app/
 
-live: https://kirstiehayesdev.netlify.app/
+
 
 
  
