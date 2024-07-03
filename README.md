@@ -110,10 +110,6 @@ You can click the Preview link to take a look at your changes.
   </section>
 
 
-
-
-
-  
  <p>Live Web App: https://climatemind.org/ </p> 
  
  Repo: https://github.com/ClimateMind/frontend-native-app
