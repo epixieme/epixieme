@@ -80,8 +80,6 @@ You can click the Preview link to take a look at your changes.
  Live: https://kirstiehayesdev.netlify.app/
 
 
-
-
  
  <h3>Climate Mind</h3>
  
