@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
  <h1>My Skills</h1>
  <section d-flex flex-row justify-content-between>
    <h3 align="left">Languages</h3>
+ 
+   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
    <h2 align="left">Dev Skills</h2> 
