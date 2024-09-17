@@ -72,6 +72,18 @@ You can click the Preview link to take a look at your changes.
  
  <h2>Open Source and Projects</h2>
 
+ <h3>Urban Edge</h3>
+<img width="1505" alt="urban-edge-men" src="https://github.com/user-attachments/assets/151118e7-0bd0-479a-9c0a-caee443abd75">
+
+<img width="1503" alt="urban_edge-thumbnails" src="https://github.com/user-attachments/assets/2e022b0f-7eec-4e4d-b812-c12a56df6f9e">
+
+<h4>About</h4>
+<p>This project is an ecommerce website based on one of the challenges from Front-End Mentor.</p>
+
+<p>I added my own take and created this project with the idea of using dynamic javascript to demonstrate a single page application without using a framework.</p>
+
+
+
  <h3>My Portfolio Site</h3>
 
 ![screencapture-127-0-0-1-5500-2024-06-24-10_03_49](https://github.com/epixieme/epixieme/assets/39728053/635f0de5-d53c-4a73-ae32-9f81c926d41f)
