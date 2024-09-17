@@ -81,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 <p>This project is an ecommerce website based on one of the challenges from Front-End Mentor.</p>
 
 <p>I added my own take and created this project with the idea of using dynamic javascript to demonstrate a single page application without using a framework.</p>
+<p>...more coming soon</p>
 
 
 
