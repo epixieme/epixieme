@@ -73,7 +73,8 @@ You can click the Preview link to take a look at your changes.
  <h2>Open Source and Projects</h2>
 
  <h3>Urban Edge</h3>
-<img width="1505" alt="urban-edge-men" src="https://github.com/user-attachments/assets/151118e7-0bd0-479a-9c0a-caee443abd75">
+<img width="1389" alt="collections" src="https://github.com/user-attachments/assets/83752ea8-72f5-47f5-97ba-1b1fdaca3953">
+
 
 <img width="1503" alt="urban_edge-thumbnails" src="https://github.com/user-attachments/assets/2e022b0f-7eec-4e4d-b812-c12a56df6f9e">
 
