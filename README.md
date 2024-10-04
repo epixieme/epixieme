@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <ul>
- <li>🌱 I’m skilled in Python, Javascript, Typescript, React, React-Native, GraphQL, Mongoose and MongoDB, Node and Express.js.</li>
+ <li>🌱 I’m skilled in Cypress, Playwright, Python, Javascript, Typescript, React, React-Native, GraphQL, Mongoose and MongoDB, Node and Express.js.</li>
  <li>🧑‍🎓 Currently working on an IOS/Android React-Native and React.js project for Climate Mind. Repo: https://climatemind.org/ Repo: https://github.com/ClimateMind https://github.com/ClimateMind/frontend-native-app</li>
  <li>👀 I’m interested in Front-End and Full-Stack development and I am available for open developer positions.</li>
  <li> 💞️ I’m looking to collaborate on freelance projects and am open to permanent job opportunities.</li>
