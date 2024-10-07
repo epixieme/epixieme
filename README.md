@@ -92,7 +92,6 @@ You can click the Preview link to take a look at your changes.
  
 </ul>
   
-
  <h3>My Portfolio Site</h3>
 
 ![screencapture-127-0-0-1-5500-2024-06-24-10_03_49](https://github.com/epixieme/epixieme/assets/39728053/635f0de5-d53c-4a73-ae32-9f81c926d41f)
