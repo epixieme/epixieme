@@ -2,6 +2,7 @@
 <img width="100%" alt="business card" src="https://user-images.githubusercontent.com/39728053/224089017-d6b67709-c255-45a6-b715-04ac935db1a6.png">
 
 
+
 <h2>About Me</h2>
 <ul>
  <li>🌱 I’m skilled in Cypress, Playwright, Python, Javascript, Typescript, React, React-Native, GraphQL, Mongoose and MongoDB, Node and Express.js.</li>
